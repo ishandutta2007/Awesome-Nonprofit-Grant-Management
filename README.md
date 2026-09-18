@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Nonprofit-Grant-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Nonprofit-Grant-Management?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Nonprofit-Grant-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Nonprofit-Grant-Management?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Nonprofit-Grant-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Nonprofit-Grant-Management?style=social" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -51,7 +51,7 @@
 
 ## 🔓 Open-Source GitHub Projects
 
-| Open-Source Project | GitHub Stars ⭐ | Description & Scope 🛠️ |
+| Open-Source Project | GitHub_Stars ⭐ | Description & Scope 🛠️ |
 | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)** | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Enterprise open-source ERP framework with customizable accounting, budget, and project tracking modules used for grant management. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Comprehensive open-source ERP system featuring non-profit doctypes, budget control, and expense management. |
