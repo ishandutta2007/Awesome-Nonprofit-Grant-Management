@@ -65,6 +65,13 @@
 
 ---
 
+
+## Public Data APIs (Apify)
+
+- [Grants.gov Scraper](https://apify.com/publicrecords/grants-gov-scraper) - Open US federal grants: agency, deadline, eligibility and source link (Apify Actor, API + MCP).
+- [Federal Contracts Feed (SAM.gov + Grants.gov)](https://apify.com/publicrecords/govcon-opportunity-feed) - New US federal contract and grant notices from SAM.gov and Grants.gov in one feed (Apify Actor, API + MCP).
+- [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) - US federal contract and grant awards by agency, recipient, NAICS and period (Apify Actor, API + MCP).
+
 ## 🤝 How to Contribute
 
 1. **Fork** the repository.
